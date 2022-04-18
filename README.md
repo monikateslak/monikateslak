@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @monikateslak
+- 👋 Hi, I’m @monikateslak. I like music, art, world, life ... Hello YOU :) !
+- My first github: https://github.com/Moon-a7
 - 👀 I’m interested in frontend dev, python, backend
 - 🌱 I’m currently learning react, angular
 - 💞️ I’m looking to collaborate on django
